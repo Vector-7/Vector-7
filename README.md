@@ -9,7 +9,7 @@
 * **Main**
   * Spring boot / Flask / MySQL / Redis
   * ReactJS
-  * Linux(CentOS,Ubuntu) / terraform / firebase
+  * Linux(CentOS,Ubuntu) / terraform / firebase / docker
 * **Other**
   * Graphic: Adobe Photoshop / Illustrator
   * Music: FL Studio / Musescore
