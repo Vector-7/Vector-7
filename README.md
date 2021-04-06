@@ -11,7 +11,7 @@
   * ReactJS
   * Linux(CentOS,Ubuntu) / terraform / firebase / docker
 * **Other**
-  * Graphic: Adobe Photoshop / illustrator
+  * Design: Adobe Photoshop / illustrator / XD / Indesign
   * Music: FL Studio / Musescore
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Vector-7&show_icons=true&theme=radical)
