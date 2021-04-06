@@ -1,4 +1,4 @@
-## 💻🎼 Ha Jeong Hyun (Vector-7)
+## Ha Jeong Hyun (Vector-7)
 <img src="asset/간판v1.png" width="1024"><br>
 <code><a href="https://sweetcase.tistory.com/"><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXUGDo3oqNi_96QZyWVI8tPtkRN7zFRvBPg&usqp=CAU"></a></code>
 <code><a href="https://soundcloud.com/dj4zokfdkjb5"><img height="25" src="https://image.flaticon.com/icons/png/512/48/48967.png"></a></code>
