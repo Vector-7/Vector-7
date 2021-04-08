@@ -6,11 +6,11 @@
 
 
 ### Technology stack
-* **Main**
+* **Primary**
   * Spring boot / Flask / MySQL / Redis
   * ReactJS
   * Linux(CentOS,Ubuntu) / terraform / firebase / docker
-* **Other**
+* **Secondary**
   * Design: Adobe CC(Photoshop / illustrator / XD)
   * Music: FL Studio / Musescore
 
