@@ -4,7 +4,8 @@
 
 ||||
 |---|---|---|
-|<div><a href="https://sweetcase.tistory.com"><img src="asset/tistory.png"></a></div> |<div><a href="https://soundcloud.com/dj4zokfdkjb5"><img src="asset/soundcloud.png"></a></div>|<div><a href="https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA"><img src="asset/youtube.png"></a></div>|
+|<div><a href="https://sweetcase.tistory.com"><img src="asset/tistory.png"></a></div>|<div><a href="https://soundcloud.com/dj4zokfdkjb5"><img src="asset/soundcloud.png"></a></div>|<div><a href="https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA"><img src="asset/youtube.png"></a></div>|
+
 <br><br>
 ### Technology stack
 * **Primary**
