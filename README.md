@@ -1,6 +1,5 @@
 ## Ha Jeong Hyun (Vector-7)
 <img src="asset/간판v2.png"><br>
-하라는 코딩은 안하고 이딴거나 만들고 있니...?<br>
 
 ||||
 |---|---|---|
