@@ -10,7 +10,7 @@
 ### Technology stack
 * **Primary**
   * Spring boot / Flask / MySQL / Redis
-  * ReactJS
+  * ReactJS / PyQT5
   * Linux(CentOS,Ubuntu) / terraform / firebase / docker
 * **Secondary**
   * Design: Adobe CC(Photoshop / illustrator / XD)
