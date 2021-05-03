@@ -9,7 +9,7 @@
 <br><br>
 ### Technology stack
 * **Primary**
-  * Spring boot / Flask / MySQL / Redis
+  * Spring boot / DJango / Flask / MySQL / Redis
   * ReactJS / PyQT5
   * Linux(CentOS,Ubuntu) / terraform / firebase / docker
 * **Secondary**
