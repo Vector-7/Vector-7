@@ -8,9 +8,11 @@
 <br><br>
 ### Technology stack
 * **Primary**
-  * Spring boot / DJango / Flask / MySQL / Redis
-  * ReactJS / PyQT5
-  * Linux(CentOS,Ubuntu) / terraform / firebase / docker
+  * Language: **Python** / C / Go / Java / Ruby / Lua / Javascript
+  * FrontEnd: ReactJS / **PyQT5**
+  * **Backend**: **Spring Boot** / Flask / DJango
+  * Database: MySQL / Redis
+  * **DevOps**: **Linux** / terraform / firebase / **docker**
 * **Secondary**
   * Design: Adobe CC(Photoshop / illustrator / XD)
   * Music: FL Studio / Musescore
