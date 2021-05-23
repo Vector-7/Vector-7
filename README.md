@@ -14,7 +14,7 @@
   * Database: MySQL / Redis
   * **DevOps**: **Linux** / terraform / firebase / **docker**
 * **Secondary**
-  * Design: Adobe CC(Photoshop / illustrator / XD)
+  * Design: Adobe CC(Photoshop / illustrator / Indesign / XD)
   * Music: FL Studio / Musescore
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Vector-7&show_icons=true&theme=radical)
