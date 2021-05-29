@@ -8,11 +8,9 @@
 <br><br>
 ### Technology stack
 * **Primary**
-  * Language: **Python** / C / Go / Java / Ruby / Lua / Javascript
-  * FrontEnd: ReactJS / **PyQT5**
-  * **Backend**: **Spring Boot** / Flask / DJango
-  * Database: MySQL / Redis
-  * **DevOps**: **Linux** / terraform / firebase / **docker**
+  * Language: Python, Java, Go, Lua, Perl
+  * Backend: Spring Boot, Flask, DJango
+  * Operation: Linux(Debian), Docker
 * **Secondary**
   * Design: Adobe CC(Photoshop / illustrator / Indesign / XD)
   * Music: FL Studio / Musescore
