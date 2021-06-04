@@ -10,7 +10,7 @@
 * **Primary**
   * Language: Python, Java, Go, Lua, Perl
   * Backend: Spring Boot, Flask, DJango
-  * Operation: Linux(Debian), Docker, CircleCI
+  * Operation: Linux(Debian, CentOS), Docker, CircleCI
 * **Secondary**
   * Design: Adobe CC(Photoshop / illustrator / Indesign / XD)
   * Music: FL Studio / Musescore
