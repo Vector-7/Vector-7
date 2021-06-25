@@ -10,7 +10,7 @@
   * ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![DJango](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   * ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
 * **Secondary**
-  * ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+  * ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) ![XD](https://img.shields.io/badge/-XD-green)
   * ![flstudio](https://img.shields.io/badge/FL%20Studio-%2020-blueviolet) ![musescore](https://img.shields.io/badge/Musescore-3-blue)
 
 <br><br>
