@@ -14,4 +14,4 @@
   * ![flstudio](https://img.shields.io/badge/FL%20Studio-%2020-blueviolet) ![musescore](https://img.shields.io/badge/Musescore-3-blue)
 
 <br><br>
-![stats](https://github-readme-stats.vercel.app/api?username=Vector-7&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=recoma)](https://solved.ac/recoma)
