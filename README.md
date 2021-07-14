@@ -12,7 +12,7 @@
   *  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   * ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
 * **Secondary**
-  * ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg) ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) ![XD](https://img.shields.io/badge/-XD-green)
+  * ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white) ![XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
   * ![flstudio](https://img.shields.io/badge/FL%20Studio-%2020-blueviolet) ![musescore](https://img.shields.io/badge/Musescore-3-blue)
 
 <br><br>
