@@ -1,6 +1,6 @@
 ## Ha Jeong Hyun (Vector-7)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/dj4zokfdkjb5) 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA)
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/dj4zokfdkjb5) 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA)
 <img src="asset/간판v4.png"><br>
 
 <br><br>
