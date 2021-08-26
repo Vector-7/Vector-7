@@ -14,6 +14,3 @@
 * **Secondary**
   * ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white) ![XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
   * ![flstudio](https://img.shields.io/badge/FL%20Studio-%2020-blueviolet) ![musescore](https://img.shields.io/badge/Musescore-3-blue)
-
-<br><br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=recoma)](https://solved.ac/recoma)
