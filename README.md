@@ -3,14 +3,37 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA)
 <img src="asset/간판v4.png"><br>
 
-<br><br>
-### Technology stack
-* **Primary**
-  * ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-  * ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![DJango](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Fastapi](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
-  *  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-  * ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
-* **Secondary**
-  * ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white) ![XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
-  * ![flstudio](https://img.shields.io/badge/FL%20Studio-%2020-blueviolet) ![musescore](https://img.shields.io/badge/Musescore-3-blue)
+<h3 align="center">
+  Primary
+</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=gray" />
+ <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+ 
+ <br />
+ 
+ <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+ 
+</center>
+
+<h3 align="center">
+  Secondary
+</h3>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+ <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+ <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+ 
+ <br/>
+ <img src="https://img.shields.io/badge/FL%20Studio%2020-blueviolet?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Musescore3-blue?style=for-the-badge" />
+ 
+</center>
